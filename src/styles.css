@@ -1,0 +1,25 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  header,
+  footer {
+    background-color: #5b1f1f;
+    color: aquamarine;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  section,
+  article,
+  aside {
+    border: 1px solid #f10c0c;
+    color: blue;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+  }
